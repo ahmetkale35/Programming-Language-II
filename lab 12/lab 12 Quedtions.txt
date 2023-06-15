@@ -1,0 +1,4 @@
+                           LAB SORULARI (LAB QUESTIONS)
+1) Öğrenci bilgilerinden (öğrenci no, isim, bölüm) oluşan sıralı erişimli bir dosya oluşturan ve bu dosya içerisinde isme göre arama yapan programi yazınız. Program menü şeklinde hazırlanmalıdır. Dosya oluşturma, kayıt ekleme gibi gerekli tüm fonksiyonlar yazılmalıdır. 
+
+(Write the program that creates a sequential access file consisting of student information (student no, name, department) and searches by name in this file. The program should be prepared as a menu. All necessary functions such as creating files and adding records should be written.)

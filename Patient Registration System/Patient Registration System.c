@@ -283,7 +283,7 @@ void editrecord() {
 	printf("-----------------\n");
     printf("No: %d\n", newp.pno);
     printf("Name: %s\n", newp.name);
-    printf("Age: %d\n", patient.age);
+    printf("Age: %d\n", newp.age);
     printf("Disease: %s\n", newp.dis);
 	printf("-----------------\n");
 	     
